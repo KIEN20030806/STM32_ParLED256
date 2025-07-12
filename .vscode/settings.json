@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32f0xx_hal.h": "c",
+        "string.h": "c",
+        "matrixled.h": "c"
+    }
+}
