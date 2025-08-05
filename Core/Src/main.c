@@ -597,8 +597,7 @@ matrixLED_HandleTypeDef hmatrix = {
         {GPIOA, 4},
         {GPIOA, 5},
         {GPIOA, 6},
-        {GPIOA, 7},
-        {GPIOB, 0}  
+        {GPIOA, 7}
     }
 };
 
